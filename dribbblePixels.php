@@ -102,10 +102,10 @@
 	
 	$total = TotalPixels('anatolinicolae');
 	
-	echo 'I\'ve dribbble\'d something like ' . OrdiNice($total) . ' pixel away! <br>';
+	echo 'I\'ve dribbbled something like ' . OrdiNice($total) . ' pixel away! <br>';
 	// If you're reading this, then my script is probably a success.
-	echo 'I\'ve dribbble\'d something like ' . Nice($total) . ' pixels! <br>';
+	echo 'I\'ve dribbbled something like ' . Nice($total) . ' pixels! <br>';
 	// If you're reading this, then my script is probably a double success.
-	echo 'I\'ve dribbble\'d ' . number_format($total) . ' pixels!';
+	echo 'I\'ve dribbbled ' . number_format($total) . ' pixels!';
 	// If you're reading this, then my script is probably a triple success.
 ?>
