@@ -10,3 +10,9 @@ Just <code>echo TotalPixels('username');</code>
 This function will return the total number of dribbbled pixels.
 
 If you want to make it fancier, there are some examples in the main PHP file.
+
+
+License
+=======
+
+See LICENSE.
