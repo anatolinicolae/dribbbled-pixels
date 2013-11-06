@@ -16,3 +16,7 @@ License
 =======
 
 See LICENSE.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/anatolinicolae/dribbbled-pixels/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
