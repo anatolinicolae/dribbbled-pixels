@@ -1,7 +1,7 @@
 Dribbbled Pixels Counter
 ========================
 
-PHP counter of total pixels dribbbled by a Dribbble user. Demo [here](http://distro.dsgnchmp.us/dribbbled-pixels/).
+PHP counter of total pixels dribbbled by a Dribbble user. Demo [here](http://dove.dsgnchmp.us/dribbbled-pixels/).
 
 
 ##How to use it?
